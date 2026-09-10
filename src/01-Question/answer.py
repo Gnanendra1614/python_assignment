@@ -5,6 +5,7 @@ if __name__ == '__main__':
 
 my_list = []
 
+
 for i in range(N):
     command = input().split()
 
